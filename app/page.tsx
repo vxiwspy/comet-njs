@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head><link rel="icon" href="/favicon.ico" /></Head>
-      <div className="flex justify-center items-center h-screen w-screen bg-[#090909]">
+      <div className="flex justify-center items-center h-screen w-screen background">
         <Navbar />
         <Hero />
       </div>
